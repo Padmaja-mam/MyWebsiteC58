@@ -1,0 +1,64 @@
+body
+{
+text-align: center;
+background-color: lime;
+}
+p
+{
+    color : white;
+}
+h1
+{
+    color : rgb(252, 10, 83);
+    font-family: Comic;
+}
+h2
+{
+    color : rgb(213, 248, 11);
+    font-family: Veranda;
+}
+img
+{
+    height : 200px;
+    width : 200px;
+    border-radius: 50%;
+    
+}
+.menu
+{
+    list-style: none;
+    float : right;
+    top : 10px;
+    right : 30px;
+    cursor: pointer;
+}
+.link
+{
+    text-decoration: none;
+    color : yellow;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+}
+.link:hover
+{
+    background-color: tomato;
+}
+#welcome
+{
+    text-align: center;
+    padding: 70px;
+}
+#bio
+{
+    text-align: center;
+}
+.line
+{
+    height : 6px;
+    color : blueviolet;
+    width : 50px;
+    margin:8px auto;
+}
